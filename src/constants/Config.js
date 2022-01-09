@@ -1,0 +1,1 @@
+export const API_URL = 'https://61d854ffe6744d0017ba8a79.mockapi.io/trainning/connect-api';
